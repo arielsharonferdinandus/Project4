@@ -10,7 +10,7 @@ This repository is intended to explore React + Typescript + Vite + Tailwind CSS.
 Clone the project
 
 ```bash
-  git https://github.com/cotbakheu/tugas-4
+  git https://github.com/arielsharonferdinandus/Project4
 ```
 
 Go to the project directory
